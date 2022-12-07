@@ -1,4 +1,3 @@
-ZTE MC801A
-#Auto-reconnect for ZTE MC801A 5G router
+# Auto-reconnect for ZTE MC801A 5G router
 
 Little script using Selenium that detect when the connection is down and reconnect automatically.
